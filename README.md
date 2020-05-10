@@ -6,9 +6,10 @@ In case you are missing something, please let me know, e.g. via an issue.
 
 Current content: 
 1. Basics on Point Clouds and Depth Data
-  a) Difference between Point Cloud and Depth Image
-  b) Pin Hole Camera Model
-  c) Hands-on in tiny Notebook (https://github.com/christianpfitzner/depth_workshop/blob/master/Copy_of_depth_tutorial.ipynb)
+
+  * Difference between Point Cloud and Depth Image
+  * Pin Hole Camera Model
+  * Hands-on in tiny Notebook (https://github.com/christianpfitzner/depth_workshop/blob/master/Copy_of_depth_tutorial.ipynb)
 
 
 
